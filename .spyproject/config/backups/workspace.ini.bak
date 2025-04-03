@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['C:\\Users\\sun\\.spyder-py3\\temp.py', 'run_time_check.py', 'sequential_search.py', 'list_dup_check_1.py', 'compute_square.py', 'binary_digit.py', 'factorial.py', 'hanoi_tower.py', 'binary_digit_recur.py']
+
+[main]
+version = 0.2.0
+recent_files = []
+
